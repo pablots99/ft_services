@@ -2,6 +2,6 @@ This is a kubernettes cluster using a loadbalancer and multiples services like w
 Each service has his own custom image, the containers are based in Alpine
 
 execution:
-	brew install kubectl
-	brew install minikube
-	sh setup.sh
+	->brew install kubectl
+	->brew install minikube
+	->sh setup.sh
